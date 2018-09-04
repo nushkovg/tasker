@@ -1,6 +1,6 @@
 ## Tasker
 
-#### Tasker is the first in the series of Vanilla JS excercise projects.
+#### Tasker is the first in the series of Vanilla JS exercise projects.
 
 #### It is a very simple todo list web application where the user can add, search or delete tasks(one by one or in bulk). The main focus here is excercising DOM manipulation by using events, local storage, event bubbling, traversing, and adding and removing elements.
 
